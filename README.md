@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Anusha D K and I'm a Frontend Devloper, from Banglore.</h2>
+<h2 align="left">Hi 👋! My name is Anusha D K and I'm a **AI/ML ENTHUSIAST**, from Banglore.</h2>
 
 <img align="right" alt="Hacking" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
